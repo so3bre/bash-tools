@@ -1,0 +1,8 @@
+# temporary files & logs
+*.log
+*~
+*.swp
+
+# fedora/linux common temp files
+*~
+*.bak
